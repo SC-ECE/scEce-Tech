@@ -4,7 +4,7 @@
 <p>Students' Chapter ECE concerns your interests over development and coding skills, so we are here to make your wish fullfill. Here you can contribute your ideas, get guidance from your siniors and fellow geeks and can be a part of a growing community. Show your enthusiasm, make collaboration support us and stay tunned.......  </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik-bose007&label=Profile%20views&color=0e75b6&style=flat" alt="swastik-bose007" /> </p>
-<p align="right"> <a href="https://twitter.com/ieiece" target="blank"><img src="https://img.shields.io/twitter/follow/ieiece?logo=twitter&style=for-the-badge" alt="ieiece" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ieiece" target="blank"><img src="https://img.shields.io/twitter/follow/ieiece?logo=twitter&style=for-the-badge" alt="ieiece" /></a> </p>
 
 - ❄️ Connect with us through our social media handles
 - 📫 Reach us at **ece.student.chapter@gmail.com**
