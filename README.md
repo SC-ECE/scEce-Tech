@@ -19,5 +19,8 @@
 <a href="https://www.youtube.com/c/student chapter ece aot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="student chapter ece aot" height="30" width="40" /></a>
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swastik-bose007&" alt="scEce-Tech" /></p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swastik-bose007&" alt="scEce-Tech" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=scece-tech&show_icons=true&locale=en" alt="scece-tech" />
 </a>
