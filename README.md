@@ -3,9 +3,9 @@
 <h4 align="center">🔖 Combine your vision with passion. We are here to make it real in AOT 🔖</h3>
 <p>Students' Chapter ECE concerns your interests over development and coding skills, so we are here to make your wish fullfill. Here you can contribute your ideas, get guidance from your siniors and fellow geeks and can be a part of a growing community. Show your enthusiasm, make collaboration support us and stay tunned.......  </p>
 
-<p align="left"> <img src="https://github.com/scEce-Tech" alt="scEce-Tech" /> </p>
+<p align="left"> <img src="https://img.shields.io/github/followers/scEce-Tech?style=social" alt="scEce-Tech" /> </p>
 <p align="left"> <a href="https://twitter.com/ieiece" target="blank"><img src="https://img.shields.io/twitter/follow/ieiece?logo=twitter&style=for-the-badge" alt="ieiece" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik-bose007&label=Profile%20views&color=0e75b6&style=flat" alt="swastik-bose007" /> </p>
+<p align="left"> <img src="https://img.shields.io/youtube/channel/subscribers/UCi2UTCTQnxo5XXkG5w8OUNQ?style=social" /> </p>
 
 - 🤖 This is the official github profile of SC-ECE
 - ❄️ Connect with Students' Chapter ECE AOT through our social media handles
