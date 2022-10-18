@@ -1,5 +1,7 @@
-<h1 align="center">Hey There👋 Students' Chapter ECE is their for your Dev Interests</h1>
-<h3 align="center">Combine your vision with passion. We are here to make it real in AOT</h3>
+<img width="100%" src="https://preview.redd.it/bvohapx1lwi61.png?width=910&format=png&auto=webp&s=aed2f439d5bde5c69277eb25a02162dc8df8af4a">
+<h1 align="center">Hey There👋 Students' Chapter ECE is there</h1>
+<h4 align="center">🔖 Combine your vision with passion. We are here to make it real in AOT 🔖</h3>
+<p>Students' Chapter ECE concerns your interests over development and coding skills, so we are here to make your wish fullfill. Here you can contribute your ideas, get guidance from your siniors and fellow geeks and can be a part of a growing community. Show your enthusiasm, make collaboration support us and stay tunned.......  </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastik-bose007&label=Profile%20views&color=0e75b6&style=flat" alt="swastik-bose007" /> </p>
 
